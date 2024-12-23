@@ -9,9 +9,14 @@ public class dataType {
         int x = 10;
         int y = 9;
         System.out.println("Is x greater than y ? " + (x > y)); // returns true, because 10 is higher than 9
+        System.out.println(10 == 15); // returns false, because 10 is not equal to 15
 
         int myAge = 25;
         int votingAge = 18;
-        System.out.println(myAge >= votingAge); // returns true, because 25 is higher than 18
+        if (myAge >= votingAge) {
+            System.out.println("Old enough to vote!");
+        } else {
+            System.out.println("Not old enough to vote.");
+        }
     }
 }
