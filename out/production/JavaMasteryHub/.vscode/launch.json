@@ -6,13 +6,6 @@
   "configurations": [
     {
       "type": "java",
-      "name": "Basic2",
-      "request": "launch",
-      "mainClass": "Basic2",
-      "projectName": "JavaMasteryHub_d3f4807"
-    },
-    {
-      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
