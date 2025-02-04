@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
-public class Basic1 {
-    public static void main(String[] args) {
+public class Basic1
+{
+    public static void main(String[] args)
+    {
         Scanner scanner = new Scanner(System.in);
 
         // Ask the user for their full name
