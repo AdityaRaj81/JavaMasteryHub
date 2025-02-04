@@ -75,6 +75,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 `Java` `Learning` `Programming` `Practice` `Basic to Advanced` `OOP` `Coding Challenges` `Master Java`
 
+---
+
 ## 👤 Made By
 
 Created and maintained by Aditya Raj. If you’d like to connect, please feel free to reach out via email at [Connect@RajAditya@gmail.com](mailto:Connect@RajAditya@gmail.com).

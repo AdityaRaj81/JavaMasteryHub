@@ -2,9 +2,7 @@ public class test
 {
     public static void main(String[] args)
     {
-
         // if-else Statement
-
         int age = 19;
         if (age >= 18) {
             System.out.println("You are eligible to vote.");
@@ -12,16 +10,13 @@ public class test
             System.out.println("You are not eligible to vote.");
         }
 
-
         // Loops
         // a. for Loop
-
         for (int i = 9; i <= 15; i++) {
             System.out.println("Iteration: " + i);
         }
 
         // b. while Loop
-
         int j = 1;
         while (j <= 5) {
             System.out.println(j);
@@ -36,7 +31,6 @@ public class test
         } while (num <= 25);
 
         // switch Statement
-
         int day = 3;
         switch (day) {
             case 1:
@@ -51,7 +45,6 @@ public class test
             default:
                 System.out.println("Invalid day");
         }
-
     }
 }
 
