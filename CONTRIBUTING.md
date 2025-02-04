@@ -12,7 +12,7 @@ Start by forking this repository to your GitHub account. You can do this by clic
 ### 2. Clone the Repository
 Clone the forked repository to your local machine:
 ```bash
-git clone https://github.com/<your-username>/JavaMasteryHub.git
+git clone https://github.com/<AdityaRaj81>/JavaMasteryHub.git
 ```
 
 ### 3. Create a Branch
