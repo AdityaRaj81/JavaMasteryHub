@@ -1,9 +1,11 @@
-public class test {
-    public static void main(String[] args) {
+public class test
+{
+    public static void main(String[] args)
+    {
 
         // if-else Statement
 
-        int age = 18;
+        int age = 19;
         if (age >= 18) {
             System.out.println("You are eligible to vote.");
         } else {
